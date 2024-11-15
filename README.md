@@ -1,6 +1,6 @@
 ---
 icon: hand-wave
-cover: https://gitbookio.github.io/onboarding-template-images/header.png
+cover: .gitbook/assets/EdgeAIMastery.JPG
 coverY: 0
 layout:
   cover:
@@ -22,11 +22,15 @@ layout:
 
 ## Your Journey to Mastering Edge AI Begins Here.
 
-This GitBook organization is dedicated to providing comprehensive and practical resources for mastering the art and science of Edge AI. Whether you're a seasoned engineer or just starting your journey, you'll find valuable insights, tutorials, and code examples to accelerate your learning and development.
+_EdgeAIMastery_ is dedicated to providing comprehensive and practical resources for mastering the art and science of Edge AI. Whether you're a seasoned engineer or just starting your journey, you'll find valuable insights, tutorials, and code examples to accelerate your learning and development.
 
 ## What is Edge AI?
 
 Edge AI refers to the deployment of artificial intelligence algorithms and models directly on edge devices, such as smartphones, embedded systems, and IoT devices. This approach offers numerous benefits, including reduced latency, increased privacy, and improved efficiency.
+
+{% embed url="https://www.youtube.com/watch?v=-VfVfq5fvVk" %}
+Introduction
+{% endembed %}
 
 ## Why Master Edge AI?
 
@@ -35,6 +39,8 @@ Edge AI is rapidly transforming industries and creating exciting new opportuniti
 * Design and deploy intelligent systems that can operate autonomously in real-time.
 * Optimize AI models for resource-constrained edge devices.
 * Develop innovative solutions for challenges in various domains, including healthcare, robotics, and industrial automation.
+
+{% embed url="https://www.youtube.com/watch?v=-EtptLBmOgQ" %}
 
 ## What You'll Find Here
 
