@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome to EdgeAIMastery](README.md)
+* [TinyML](tinyml.md)
 
 ## Getting Started
 
